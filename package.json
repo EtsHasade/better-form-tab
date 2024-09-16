@@ -1,0 +1,11 @@
+{
+  "name": "better-form-tab",
+  "version": "1.0.0",
+  "description": "Chrome Extention, to allow the user to map inputs from one tab to castume form in another tab. so the ui will be better for his usecase.for example, the watsapp web input for new messag is too smale for long messages, so the Extention allow to map this input to bigger textarea in new tab and map the \"send\" button in the new tab to the send button in the original tab to send the message.",
+  "main": "popup.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
